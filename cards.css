@@ -1,0 +1,51 @@
+.cards {
+    max-width: 300px;
+    margin: 50px;
+    background-color:rgb(96, 88, 88);
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+    transition: 0.3s;
+    border-radius: 10px;    
+}
+   .jogador {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+  }
+
+  .pais{
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border-radius: 10px;    
+
+  }
+
+ 
+  
+  .tags {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border-radius: 10px;
+  }
+  
+  .tags p {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color:rgba(255, 255, 255, 0.2);
+    color: #fff;
+    border-radius: 10px;
+  }
+  

@@ -1,0 +1,19 @@
+.argentina{
+    width: auto;
+    height: px;
+    background-color: rgb(175, 214, 215);
+    border-width:auto;
+    border-style:dotted;
+    border-color:white;
+
+}
+
+.elementos-arg{
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    border-radius: 10px;  
+}
